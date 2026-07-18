@@ -8,6 +8,8 @@
 
 - [Pull Request 검토](docs/pull-request-review.md): 변경 범위, 정확성, 테스트,
   보안과 운영 영향을 병합 전에 확인합니다.
+- [Release 준비 및 배포](docs/release-checklist.md): 배포 전 검증, 배포 중 관찰과
+  문제 발생 시 되돌리기 절차를 확인합니다.
 
 ## 사용 방법
 
